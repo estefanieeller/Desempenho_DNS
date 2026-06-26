@@ -22,7 +22,11 @@ Este projeto implementa conceitos fundamentais da literatura de redes de computa
 Certifique-se de ter o Python 3.x instalado em sua máquina.
 
 Passo 1 (Navegação): Abra o Terminal do seu sistema e use o comando cd para entrar na pasta exata onde guardou o arquivo app_dns.py (por exemplo, cd ~/Documents).
+
 Passo 2 (Instalação): Instale as dependências de interface e gráficos do ecossistema Python executando o comando pip3 install streamlit plotly pandas.
+
 Passo 3 (Inicialização): Para contornar restrições de ambiente locais das shells Zsh ou Bash, inicialize o dashboard através do comando central do interpretador: python3 -m streamlit run app_dns.py.
+
 Passo 4 (Configuração Inicial): Caso o terminal solicite um e-mail com o aviso Email:, pressione apenas a tecla Enter para ignorar e deixar o campo em branco.
+
 Passo 5 (Acesso Web): Aguarde a aplicação abrir de forma automática uma nova aba no seu navegador de internet padrão sob o endereço local http://localhost:8501.
