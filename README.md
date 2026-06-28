@@ -19,7 +19,7 @@ Este projeto implementa conceitos fundamentais da literatura de redes de computa
 
 ## Pré-requisitos & Instalação (Mac/Linux)
 
-Certifique-se de ter o Python 3.x instalado em sua máquina.
+Certifique-se de ter o Python 3.x instalado em sua máquina e baixe o arquivo app_dns.py.
 
 Passo 1 (Navegação): Abra o Terminal do seu sistema e use o comando cd para entrar na pasta exata onde guardou o arquivo app_dns.py (por exemplo, cd ~/Documents).
 
